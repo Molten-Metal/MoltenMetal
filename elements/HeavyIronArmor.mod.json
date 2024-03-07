@@ -1,0 +1,90 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "iron_helmet",
+    "enableBody": true,
+    "textureBody": "iron_chestplate",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "heavyiron_",
+    "helmetName": "Heavy Iron Helmet",
+    "bodyName": "Heavy Iron Chestplate",
+    "leggingsName": "Heavy Iron Armor Leggings",
+    "bootsName": "Heavy Iron Armor Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Modelheavyarmor",
+    "helmetModelPart": "Head3",
+    "helmetModelTexture": "heavyiron_layer_1.png",
+    "bodyModelName": "Modelheavyarmor",
+    "bodyModelPart": "Body4",
+    "armsModelPartL": "LeftArm3",
+    "armsModelPartR": "RightArm3",
+    "bodyModelTexture": "heavyiron_layer_1.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 25,
+    "damageValueHelmet": 3,
+    "damageValueBody": 7,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ]
+  }
+}

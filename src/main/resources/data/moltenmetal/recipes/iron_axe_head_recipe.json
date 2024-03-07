@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "moltenmetal:molten_iron"
+    },
+    {
+      "item": "moltenmetal:molten_iron"
+    },
+    {
+      "item": "moltenmetal:molten_iron"
+    },
+    {
+      "item": "moltenmetal:axe_blade_mould"
+    }
+  ],
+  "result": {
+    "item": "moltenmetal:hot_iron_axe_blade",
+    "count": 1
+  }
+}

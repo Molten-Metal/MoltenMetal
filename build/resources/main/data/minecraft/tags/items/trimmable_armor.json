@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "moltenmetal:heavy_iron_armor_helmet",
+    "moltenmetal:heavy_iron_armor_chestplate",
+    "moltenmetal:heavy_golden_armor_helmet",
+    "moltenmetal:heavy_golden_armor_chestplate",
+    "moltenmetal:heavy_diamond_armor_helmet",
+    "moltenmetal:heavy_diamond_armor_chestplate",
+    "moltenmetal:heavy_netherite_armor_helmet",
+    "moltenmetal:heavy_netherite_armor_chestplate"
+  ]
+}

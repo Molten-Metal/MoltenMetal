@@ -1,0 +1,137 @@
+{
+  "_fv": 57,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "WEAPONSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:SwordBladeMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:HandguardMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "TOOLSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:PickHeadMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:ShovelBladeMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          },
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:AxeBladeMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:PlateMould"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      }
+    ]
+  }
+}

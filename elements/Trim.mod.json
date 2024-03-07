@@ -1,0 +1,40 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HeavyIronArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:HeavyIronArmor.body"
+      },
+      {
+        "value": "CUSTOM:HeavyGoldenArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:HeavyGoldenArmor.body"
+      },
+      {
+        "value": "CUSTOM:HeavyDiamondArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:HeavyDiamondArmor.body"
+      },
+      {
+        "value": "CUSTOM:HeavyNetheriteArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:HeavyNetheriteArmor.body"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "trimmable_armor",
+    "namespace": "minecraft"
+  }
+}

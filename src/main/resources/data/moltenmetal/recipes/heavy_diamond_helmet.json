@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "b": {
+      "item": "moltenmetal:diamond_plate"
+    }
+  },
+  "result": {
+    "item": "moltenmetal:heavy_diamond_armor_helmet",
+    "count": 1
+  }
+}

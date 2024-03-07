@@ -1,0 +1,9 @@
+{
+  "parent": "moltenmetal:custom/pickhotblock",
+  "textures": {
+    "all": "moltenmetal:block/pickhot",
+    "particle": "moltenmetal:block/pickhot",
+    "0": "moltenmetal:block/pickhot"
+  },
+  "render_type": "solid"
+}

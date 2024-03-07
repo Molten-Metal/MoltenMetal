@@ -1,0 +1,9 @@
+{
+  "parent": "moltenmetal:custom/swordhotblock",
+  "textures": {
+    "all": "moltenmetal:block/swordhot",
+    "particle": "moltenmetal:block/swordhot",
+    "0": "moltenmetal:block/swordhot"
+  },
+  "render_type": "solid"
+}

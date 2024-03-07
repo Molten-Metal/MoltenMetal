@@ -1,0 +1,9 @@
+{
+  "parent": "moltenmetal:custom/platesmithed",
+  "textures": {
+    "all": "moltenmetal:block/hotplate",
+    "particle": "moltenmetal:block/hotplate",
+    "0": "moltenmetal:block/hotplate"
+  },
+  "render_type": "solid"
+}

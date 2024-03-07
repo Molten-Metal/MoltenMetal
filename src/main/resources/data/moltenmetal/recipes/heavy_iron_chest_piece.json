@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "moltenmetal:iron_plate"
+    },
+    "b": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+    "item": "moltenmetal:heavy_iron_armor_chestplate",
+    "count": 1
+  }
+}

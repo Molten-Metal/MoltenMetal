@@ -1,0 +1,3011 @@
+{
+  "mod_elements": [
+    {
+      "name": "IronSwordBlade",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/iron_sword_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/IronSwordBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "IronAxeBlade",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/IronAxeBladeItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/iron_axe_blade.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "IronShovelBlade",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/iron_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/IronShovelBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "IronPick",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/IronPickItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/iron_pick.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "IronHandGuard",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/iron_hand_guard.json",
+          "src/main/java/net/mcreator/moltenmetal/item/IronHandGuardItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenSwordBlade",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/golden_sword_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenSwordBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenAxeBlade",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenAxeBladeItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/golden_axe_blade.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenShovelBlade",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/golden_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenShovelBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenPick",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_pick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/golden_pick.json",
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenPickItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenHandGuard",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/golden_hand_guard.json",
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenHandGuardItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondSwordBlade",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondSwordBladeItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/diamond_sword_blade.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondAxeBlade",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/diamond_axe_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondAxeBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondShovelBlade",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/diamond_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondShovelBladeItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondPick",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondPickItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/diamond_pick.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondHandGuard",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/diamond_hand_guard.json",
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondHandGuardItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "SwordBladeMould",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_blade_mould",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/sword_blade_mould.json",
+          "src/main/java/net/mcreator/moltenmetal/item/SwordBladeMouldItem.java"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "PickHeadMould",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pick_head_mould",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/PickHeadMouldItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/pick_head_mould.json"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "ShovelBladeMould",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_blade_mould",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/shovel_blade_mould.json",
+          "src/main/java/net/mcreator/moltenmetal/item/ShovelBladeMouldItem.java"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "HandguardMould",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "handguard_mould",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HandguardMouldItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/handguard_mould.json"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "AxeBladeMould",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_blade_mould",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/AxeBladeMouldItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/axe_blade_mould.json"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "HotIronSwordBlade",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronSwordBladeItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_sword_blade.json"
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "HotGoldenSwordBlade",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_sword_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenSwordBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "HotDiamondSwordBlade",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_sword_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondSwordBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "SwordBlockUnsmithed",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_block_unsmithed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/block/SwordBlockUnsmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/item/sword_block_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/models/block/sword_block_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/SwordBlockUnsmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/blockstates/sword_block_unsmithed.json"
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "SwordBlockSmithed",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_block_smithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/sword_block_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/SwordBlockSmithedBlock.java",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/SwordBlockSmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/models/block/sword_block_smithed.json",
+          "src/main/resources/assets/moltenmetal/blockstates/sword_block_smithed.json"
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "HotIronHandGuard",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronHandGuardItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_hand_guard.json"
+        ]
+      },
+      "path": "~/HotItems/HandGuards"
+    },
+    {
+      "name": "HotGoldenHandGuard",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenHandGuardItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_hand_guard.json"
+        ]
+      },
+      "path": "~/HotItems/HandGuards"
+    },
+    {
+      "name": "HotDiamondHandGuard",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_hand_guard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_hand_guard.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondHandGuardItem.java"
+        ]
+      },
+      "path": "~/HotItems/HandGuards"
+    },
+    {
+      "name": "HotIronPickHead",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_pick_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_pick_head.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronPickHeadItem.java"
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotGoldenPickHead",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_pick_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenPickHeadItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_pick_head.json"
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotDiamondPickHead",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_pick_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_pick_head.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondPickHeadItem.java"
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotPickUnsmithed",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_pick_unsmithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_pick_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/models/block/hot_pick_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_pick_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotPickUnsmithedBlockEntity.java",
+          "src/main/java/net/mcreator/moltenmetal/block/HotPickUnsmithedBlock.java"
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotPickSmithed",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_pick_smithed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotPickSmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_pick_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotPickSmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_pick_smithed.json",
+          "src/main/resources/assets/moltenmetal/models/block/hot_pick_smithed.json"
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotIronAxeBlade",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronAxeBladeItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_axe_blade.json"
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotGoldenAxeBlade",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_axe_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenAxeBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotDiamondAxeBlade",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_axe_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_axe_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondAxeBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotAxeUnsmithed",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_axe_unsmithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/blockstates/hot_axe_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/models/item/hot_axe_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotAxeUnsmithedBlock.java",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotAxeUnsmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/models/block/hot_axe_unsmithed.json"
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotAxeSmithed",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_axe_smithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/block/hot_axe_smithed.json",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_axe_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotAxeSmithedBlockEntity.java",
+          "src/main/java/net/mcreator/moltenmetal/block/HotAxeSmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_axe_smithed.json"
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotIronShovelBlade",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronShovelBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HotGoldenShovelBlade",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenShovelBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HotDiamondShovelBlade",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_shovel_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_shovel_blade.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondShovelBladeItem.java"
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HotShovelUnsmithed",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_shovel_unsmithed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotShovelUnsmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_shovel_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotShovelUnsmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/block/hot_shovel_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_shovel_unsmithed.json"
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HotShovelSmithed",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_shovel_smithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/block/hot_shovel_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotShovelSmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_shovel_smithed.json",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_shovel_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotShovelSmithedBlockEntity.java"
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "SwordBladeAnvilCooling",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_blade_anvil_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/SwordBladeAnvilCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "SwordSmithing",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_smithing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/SwordSmithingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "GrabSword",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grab_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/GrabSwordProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "PickHeadAnvilCooling",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pick_head_anvil_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/PickHeadAnvilCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "PickSmithing",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pick_smithing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/PickSmithingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "PickGrab",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pick_grab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/PickGrabProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "AxeBladeAnvilCooling",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_blade_anvil_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/AxeBladeAnvilCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "AxeSmithing",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_smithing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/AxeSmithingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "AxeGrab",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_grab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/AxeGrabProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HandGuardCooling",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hand_guard_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HandGuardCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/HandGuards"
+    },
+    {
+      "name": "ShovelAnvilCooling",
+      "type": "procedure",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_anvil_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/ShovelAnvilCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "ShovelSmithing",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_smithing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/ShovelSmithingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "ShovelGrab",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_grab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/ShovelGrabProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HammerRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/hammer_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes"
+    },
+    {
+      "name": "SwordMouldRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_mould_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/sword_mould_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "AxeMouldRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_mould_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/axe_mould_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "PickRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/pick_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "HandGuardMouldRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hand_guard_mould_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/hand_guard_mould_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "ShovelMouldRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_mould_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/shovel_mould_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "IronSwordRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_sword.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/IronRecipes"
+    },
+    {
+      "name": "GoldenSword",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_sword.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/GoldRecipes"
+    },
+    {
+      "name": "DiamondSwordRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_sword.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/DiamondRecipes"
+    },
+    {
+      "name": "IronAxeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_axe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/IronRecipes"
+    },
+    {
+      "name": "GoldenAxe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_axe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/GoldRecipes"
+    },
+    {
+      "name": "DiamondAxe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_axe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/DiamondRecipes"
+    },
+    {
+      "name": "IronShovel",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_shovel.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/IronRecipes"
+    },
+    {
+      "name": "GoldenShovel",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_shovel.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/GoldRecipes"
+    },
+    {
+      "name": "DiamondShovel",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_shovel.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/DiamondRecipes"
+    },
+    {
+      "name": "IronPickaxe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_pickaxe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/IronRecipes"
+    },
+    {
+      "name": "GoldenPickaxe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_pickaxe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/GoldRecipes"
+    },
+    {
+      "name": "DiamondPickaxe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_pickaxe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/DiamondRecipes"
+    },
+    {
+      "name": "SmithingHammer",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smithing_hammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/smithing_hammer.json",
+          "src/main/java/net/mcreator/moltenmetal/item/SmithingHammerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Trades",
+      "type": "villagertrade",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trades",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "HeavyIronArmor",
+      "type": "armor",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_iron_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/heavy_iron_armor_chestplate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HeavyIronArmorItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_iron_armor_helmet.json"
+        ]
+      },
+      "path": "~/HeavyArmor"
+    },
+    {
+      "name": "HeavyGoldenArmor",
+      "type": "armor",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_golden_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HeavyGoldenArmorItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_golden_armor_helmet.json",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_golden_armor_chestplate.json"
+        ]
+      },
+      "path": "~/HeavyArmor"
+    },
+    {
+      "name": "HeavyDiamondArmor",
+      "type": "armor",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_diamond_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/heavy_diamond_armor_helmet.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HeavyDiamondArmorItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_diamond_armor_chestplate.json"
+        ]
+      },
+      "path": "~/HeavyArmor"
+    },
+    {
+      "name": "HeavyNetheriteArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_netherite_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/HeavyNetheriteArmorItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_netherite_armor_helmet.json",
+          "src/main/resources/assets/moltenmetal/models/item/heavy_netherite_armor_chestplate.json"
+        ]
+      },
+      "path": "~/HeavyArmor"
+    },
+    {
+      "name": "HotIronPlate",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_iron_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_iron_plate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotIronPlateItem.java"
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotGoldenPlate",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_golden_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_golden_plate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotGoldenPlateItem.java"
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotDiamondPlate",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_diamond_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/hot_diamond_plate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/HotDiamondPlateItem.java"
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotPlateUnsmithed",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_unsmithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/blockstates/hot_plate_unsmithed.json",
+          "src/main/resources/assets/moltenmetal/models/item/hot_plate_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotPlateUnsmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/block/hot_plate_unsmithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotPlateUnsmithedBlockEntity.java"
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotPlateSmithed",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_smithed",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/block/hot_plate_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/entity/HotPlateSmithedBlockEntity.java",
+          "src/main/resources/assets/moltenmetal/blockstates/hot_plate_smithed.json",
+          "src/main/java/net/mcreator/moltenmetal/block/HotPlateSmithedBlock.java",
+          "src/main/resources/assets/moltenmetal/models/item/hot_plate_smithed.json"
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "IronPlate",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/iron_plate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/IronPlateItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "GoldenPlate",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/golden_plate.json",
+          "src/main/java/net/mcreator/moltenmetal/item/GoldenPlateItem.java"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "DiamondPlate",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/item/DiamondPlateItem.java",
+          "src/main/resources/assets/moltenmetal/models/item/diamond_plate.json"
+        ]
+      },
+      "path": "~/CooledItems"
+    },
+    {
+      "name": "HotPlateAnvilCooling",
+      "type": "procedure",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_anvil_cooling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotPlateAnvilCoolingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotPlateSmithing",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_smithing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotPlateSmithingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "HotPlateGrab",
+      "type": "procedure",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_grab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotPlateGrabProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "PlateMould",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plate_mould",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/plate_mould.json",
+          "src/main/java/net/mcreator/moltenmetal/item/PlateMouldItem.java"
+        ]
+      },
+      "path": "~/Moulds"
+    },
+    {
+      "name": "PlateMouldRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plate_mould_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/plate_mould_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/MouldsRecipes"
+    },
+    {
+      "name": "IronHelmRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_helm_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "IronChestPiece",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_chest_piece",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_chestplate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "IronLeggings",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_leggings.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "IronBoots",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/iron_boots.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "GoldenHelmet",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "GoldenChestplate",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_chestplate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "GoldenLeggings",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_leggings.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "GoldenBoots",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/golden_boots.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "DiamondHelmet",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "DiamondChestplate",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_chestplate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "DiamondLeggings",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_leggings.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "DiamondBoots",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/diamond_boots.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyIronHelmet",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_iron_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_iron_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyIronChestPiece",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_iron_chest_piece",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_iron_chest_piece.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyGoldenHelmet",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_golden_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_golden_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyGoldenChestPlate",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_golden_chest_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_golden_chest_plate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyDiamondHelmet",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_diamond_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_diamond_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyDiamondChestPlate",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_diamond_chest_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_diamond_chest_plate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyNetheriteHelmet",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_netherite_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_netherite_helmet.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "HeavyNetheriteChestplate",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_netherite_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/heavy_netherite_chestplate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/ArmorRecipes"
+    },
+    {
+      "name": "Trim",
+      "type": "tag",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trim",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/items/trimmable_armor.json"
+        ]
+      },
+      "path": "~/HeavyArmor"
+    },
+    {
+      "name": "HotSwordBladeRightclicked",
+      "type": "procedure",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_sword_blade_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotSwordBladeRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Swords"
+    },
+    {
+      "name": "HotHandGuardRightclicked",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_hand_guard_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotHandGuardRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/HandGuards"
+    },
+    {
+      "name": "HotPickHeadRightclicked",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_pick_head_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotPickHeadRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Pickaxes"
+    },
+    {
+      "name": "HotAxeBladeRightclicked",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_axe_blade_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotAxeBladeRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Axes"
+    },
+    {
+      "name": "HotShovelBladeRightclicked",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_shovel_blade_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotShovelBladeRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Shovels"
+    },
+    {
+      "name": "HotPlateRightclicked",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_plate_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moltenmetal/procedures/HotPlateRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/HotItems/Plates"
+    },
+    {
+      "name": "ArmorerLootTable",
+      "type": "loottable",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorer_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/chests/village_armorer.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "ArmorerLoot",
+      "type": "lootmodifier",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armorer_loot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_modifiers/armorer_loot.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "WeaponSmithLootTable",
+      "type": "loottable",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weapon_smith_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_tables/chests/weapon_smith_loot_table.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "WeaponLoot",
+      "type": "lootmodifier",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weapon_loot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_modifiers/weapon_loot.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "ToolSmithLootTable",
+      "type": "loottable",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_smith_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_tables/chests/tool_smith_loot_table.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "ToolLoot",
+      "type": "lootmodifier",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_loot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_modifiers/tool_loot.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "DungonLoot",
+      "type": "lootmodifier",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dungon_loot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/loot_modifiers/dungon_loot.json"
+        ]
+      },
+      "path": "~/TradesAndLootTables"
+    },
+    {
+      "name": "MoltenIron",
+      "type": "item",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_iron",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/molten_iron.json",
+          "src/main/java/net/mcreator/moltenmetal/item/MoltenIronItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoltenGold",
+      "type": "item",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_gold",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/molten_gold.json",
+          "src/main/java/net/mcreator/moltenmetal/item/MoltenGoldItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoltenDiamond",
+      "type": "item",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_diamond",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moltenmetal/models/item/molten_diamond.json",
+          "src/main/java/net/mcreator/moltenmetal/item/MoltenDiamondItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoltenIronRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_iron_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/molten_iron_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes"
+    },
+    {
+      "name": "MoltenGoldRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_gold_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/molten_gold_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes"
+    },
+    {
+      "name": "MoltenDiamondRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_diamond_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/molten_diamond_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes"
+    },
+    {
+      "name": "IronSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_sword_blade_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "IronPickHeadRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pick_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_pick_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "IronAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_axe_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "IronShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_shovel_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "IronHandGuardRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hand_guard_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_handguard_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "GoldenSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_sword_blade_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "GoldenPickHeadRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_pick_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_pick_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "GoldenAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_axe_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "GoldenShovelBladeRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_shovel_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_shovel_blade_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "GoldenHandguardRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_handguard_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_handguard_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "DiamondSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_sword_blade_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    },
+    {
+      "name": "DiamondPickHeadRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pick_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_pick_head_recipe.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    },
+    {
+      "name": "IronPlateRecipe",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/iron_plate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Iron"
+    },
+    {
+      "name": "GoldenPlateRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/golden_plate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Gold"
+    },
+    {
+      "name": "DiamondAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_axe_head.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    },
+    {
+      "name": "DiamondShovelBladeRecipe",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_shovel_blade.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    },
+    {
+      "name": "DiamondPlateRecipe",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_plate.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    },
+    {
+      "name": "DiamondHandGuardRecipe",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hand_guard_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moltenmetal/recipes/diamond_handguard.json"
+        ]
+      },
+      "path": "~/CraftingRecipes/HotRecipes/Diamond"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moltensteel.hot_diamond_long": "Hot Diamond Long Sword Blade",
+      "block.moltensteel.forge": "Forge",
+      "item.moltenmetal.hot_golden_hand_guard": "Hot Golden Hand Guard",
+      "item.moltensteel.golden_shovel_blade": "Golden Shovel Blade",
+      "item.moltenmetal.pick_head_mould": "Pick Head Mould",
+      "block.moltensteel.hot_axe_smithed": "Hot Axe Unsmithed",
+      "item.moltensteel.iron_great_sword": "Iron Great Sword",
+      "item.moltensteel.diamond_long_sword_blade": "Diamond Long Sword Blade",
+      "item.moltensteel.axe_blade_mould": "Axe Blade Mould",
+      "item.moltensteel.hot_gold_long": "Hot Golden Long Sword Blade",
+      "item.moltenmetal.smithing_hammer": "Smithing Hammer",
+      "item.moltensteel.heavy_netherite_armor_helmet": "Heavy Netherite Helmet",
+      "block.moltenmetal.hot_pick_unsmithed": "Hot Pick Unsmithed",
+      "item.moltensteel.hot_golden_hand_guard": "Hot Golden Hand Guard",
+      "item.moltenmetal.iron_plate": "Iron Plate",
+      "item.moltenmetal.iron_hand_guard": "Iron Hand Guard",
+      "item.moltenmetal.golden_hand_guard": "Golden Hand Guard",
+      "item.moltensteel.iron_great_sword_blade": "Iron Great Sword Blade",
+      "item.moltensteel.diamond_long_sword": "Diamond Long Sword",
+      "item.moltenmetal.iron_pick": "Iron Pick Head",
+      "item.moltenmetal.hot_iron_sword_blade": "Hot Iron Sword Blade",
+      "item.moltensteel.handguard_mould": "Hand Guard Mould",
+      "item.moltenmetal.molten_gold": "Molten Gold",
+      "item.moltensteel.iron_long_sword": "Iron Long Sword",
+      "item.moltensteel.golden_axe_blade": "Golden Axe Blade",
+      "item.moltensteel.iron_sword_blade": "Iron Sword Blade",
+      "item.moltenmetal.hot_golden_pick_head": "Hot Golden Pick Head",
+      "item.moltenmetal.hot_iron_axe_blade": "Hot Iron Axe Blade",
+      "item.moltensteel.hot_golden_plate": "Hot Golden Plate",
+      "item.moltenmetal.heavy_iron_armor_chestplate": "Heavy Iron Chestplate",
+      "block.moltensteel.long_sword_unsmithed": "Hot Long Sword Blade",
+      "item.moltenmetal.plate_mould": "Plate Mould",
+      "item.moltensteel.hot_iron_sword_blade": "Hot Iron Sword Blade",
+      "item.moltensteel.hot_diamond_plate": "Hot Diamond Plate",
+      "item.moltensteel.hot_diamond_axe_blade": "Hot Diamond Axe Blade",
+      "item.moltensteel.hot_diamond_great": "Hot Diamond Great Sword Blade",
+      "item.moltenmetal.hot_golden_shovel_blade": "Hot Golden Shovel Blade",
+      "item.moltensteel.great_sword_mould": "Great Sword Blade Mould",
+      "block.moltensteel.hot_plate_smithed": "Hot Plate Unsmithed",
+      "block.moltensteel.hot_pick_smithed": "Hot Pick Unsmithed",
+      "block.moltensteel.great_sword_unsmithed": "Hot Plate Unsmithed",
+      "block.moltensteel.great_sword_smithed": "Hot Plate Unsmithed",
+      "block.moltenmetal.hot_pick_smithed": "Hot Pick Unsmithed",
+      "item.moltenmetal.molten_diamond": "Molten Diamond",
+      "item.moltenmetal.hot_diamond_plate": "Hot Diamond Plate",
+      "item.moltenmetal.hot_diamond_shovel_blade": "Hot Diamond Shovel Blade",
+      "item.moltenmetal.hot_diamond_sword_blade": "Hot Diamond Sword Blade",
+      "item.moltensteel.heavy_iron_armor_helmet": "Heavy Iron Helmet",
+      "item.moltensteel.hot_gold_great": "Hot Golden Great Sword Blade",
+      "item.moltenmetal.molten_iron": "Molten Iron",
+      "block.moltenmetal.hot_axe_smithed": "Hot Axe Unsmithed",
+      "item.moltensteel.golden_great_sword": "Golden Great Sword",
+      "block.moltensteel.long_sword_smithed": "Hot Long Sword Blade",
+      "item.moltenmetal.diamond_hand_guard": "Diamond Hand Guard",
+      "item.moltensteel.golden_sword_blade": "Golden Sword Blade",
+      "item.moltensteel.diamond_great_sword_blade": "Diamond Great Sword Blade",
+      "item.moltensteel.hot_iron_shovel_blade": "Hot Iron Shovel Blade",
+      "block.moltensteel.hot_axe_unsmithed": "Hot Axe Unsmithed",
+      "block.moltensteel.hot_plate_unsmithed": "Hot Plate Unsmithed",
+      "item.moltensteel.iron_hand_guard": "Iron Hand Guard",
+      "item.moltensteel.heavy_golden_armor_helmet": "Heavy Golden Helmet",
+      "item.moltensteel.iron_plate": "Iron Plate",
+      "item.moltensteel.netherite_great_sword": "Netherite Great Sword",
+      "item.moltenmetal.heavy_diamond_armor_helmet": "Heavy Diamond Helmet",
+      "block.moltensteel.sword_block_unsmithed": "Sword Block Unsmithed",
+      "item.moltenmetal.axe_blade_mould": "Axe Blade Mould",
+      "item.moltensteel.heavy_golden_armor_chestplate": "Heavy Golden Chestplate",
+      "item.moltenmetal.iron_shovel_blade": "Iron Shovel Blade",
+      "item.moltensteel.iron_long_sword_blade": "Iron Long Sword Blade",
+      "item.moltenmetal.iron_axe_blade": "Iron Axe Blade",
+      "item.moltenmetal.hot_iron_shovel_blade": "Hot Iron Shovel Blade",
+      "item.moltensteel.diamond_plate": "Diamond Plate",
+      "item.moltenmetal.diamond_axe_blade": "Diamond Axe Blade",
+      "item.moltensteel.hot_diamond_pick_head": "Hot Diamond Pick Head",
+      "item.moltensteel.hot_diamond_hand_guard": "Hot Diamond Hand Guard",
+      "item.moltensteel.hot_iron_plate": "Hot Iron Plate",
+      "item.moltensteel.iron_pick": "Iron Pick Head",
+      "item.moltenmetal.golden_axe_blade": "Golden Axe Blade",
+      "item.moltenmetal.golden_shovel_blade": "Golden Shovel Blade",
+      "item.moltenmetal.iron_sword_blade": "Iron Sword Blade",
+      "item.moltenmetal.handguard_mould": "Hand Guard Mould",
+      "item.moltenmetal.shovel_blade_mould": "Shovel Blade Mould",
+      "block.moltenmetal.sword_block_unsmithed": "Sword Block Unsmithed",
+      "item.moltenmetal.hot_iron_pick_head": "Hot Iron Pick Head",
+      "item.moltensteel.smithing_hammer": "Smithing Hammer",
+      "item.moltensteel.heavy_diamond_armor_chestplate": "Heavy Diamond Chestplate",
+      "item.moltenmetal.diamond_pick": "Diamond Pick Head",
+      "item.moltenmetal.hot_golden_axe_blade": "Hot Golden Axe Blade",
+      "block.moltenmetal.hot_axe_unsmithed": "Hot Axe Unsmithed",
+      "item.moltensteel.heavy_netherite_armor_chestplate": "Heavy Netherite Chestplate",
+      "block.moltensteel.sword_block_smithed": "Sword Block Unsmithed",
+      "item.moltensteel.golden_long_sword": "Golden Long Sword",
+      "item.moltensteel.diamond_shovel_blade": "Diamond Shovel Blade",
+      "item.moltensteel.sword_blade_mould": "Sword Blade Mould",
+      "item.moltenmetal.hot_golden_sword_blade": "Hot Golden Sword Blade",
+      "item.moltenmetal.diamond_plate": "Diamond Plate",
+      "item.moltensteel.pick_head_mould": "Pick Head Mould",
+      "item.moltenmetal.hot_diamond_pick_head": "Hot Diamond Pick Head",
+      "item.moltensteel.heavy_diamond_armor_helmet": "Heavy Diamond Helmet",
+      "block.moltenmetal.hot_shovel_smithed": "Hot Shovel Unsmithed",
+      "item.moltensteel.hot_iron_long": "Hot Iron Long Sword Blade",
+      "item.moltenmetal.hot_iron_hand_guard": "Hot Iron Hand Guard",
+      "block.moltensteel.hot_shovel_unsmithed": "Hot Shovel Unsmithed",
+      "item.moltenmetal.hot_golden_plate": "Hot Golden Plate",
+      "item.moltensteel.iron_axe_blade": "Iron Axe Blade",
+      "item.moltenmetal.golden_sword_blade": "Golden Sword Blade",
+      "item.moltenmetal.hot_iron_plate": "Hot Iron Plate",
+      "item.moltensteel.diamond_hand_guard": "Diamond Hand Guard",
+      "item.moltensteel.netherite_long_sword": "Netherite Long Sword",
+      "item.moltenmetal.heavy_diamond_armor_chestplate": "Heavy Diamond Chestplate",
+      "item.moltenmetal.heavy_netherite_armor_helmet": "Heavy Netherite Helmet",
+      "item.moltenmetal.heavy_golden_armor_chestplate": "Heavy Golden Chestplate",
+      "item.moltensteel.iron_shovel_blade": "Iron Shovel Blade",
+      "block.moltenmetal.sword_block_smithed": "Sword Block Unsmithed",
+      "item.moltenmetal.golden_plate": "Golden Plate",
+      "item.moltensteel.golden_plate": "Golden Plate",
+      "item.moltensteel.hot_golden_shovel_blade": "Hot Golden Shovel Blade",
+      "item.moltenmetal.diamond_shovel_blade": "Diamond Shovel Blade",
+      "item.moltensteel.golden_hand_guard": "Golden Hand Guard",
+      "item.moltensteel.plate_mould": "Plate Mould",
+      "item.moltenmetal.hot_diamond_axe_blade": "Hot Diamond Axe Blade",
+      "item.moltensteel.golden_long_sword_blade": "Golden Long Sword Blade",
+      "item.moltensteel.hot_iron_hand_guard": "Hot Iron Hand Guard",
+      "item.moltensteel.diamond_great_sword": "Diamond Great Sword",
+      "item.moltensteel.diamond_sword_blade": "Diamond Sword Blade",
+      "item.moltensteel.diamond_pick": "Diamond Pick Head",
+      "item.moltensteel.hot_iron_great": "Hot Iron Great Sword Blade",
+      "item.moltensteel.hot_golden_sword_blade": "Hot Golden Sword Blade",
+      "block.moltenmetal.hot_shovel_unsmithed": "Hot Shovel Unsmithed",
+      "block.moltensteel.hot_pick_unsmithed": "Hot Pick Unsmithed",
+      "item.moltensteel.hot_golden_axe_blade": "Hot Golden Axe Blade",
+      "item.moltensteel.shovel_blade_mould": "Shovel Blade Mould",
+      "item.moltensteel.hot_iron_pick_head": "Hot Iron Pick Head",
+      "item.moltenmetal.sword_blade_mould": "Sword Blade Mould",
+      "item.moltenmetal.heavy_golden_armor_helmet": "Heavy Golden Helmet",
+      "item.moltenmetal.heavy_netherite_armor_chestplate": "Heavy Netherite Chestplate",
+      "item.moltensteel.diamond_axe_blade": "Diamond Axe Blade",
+      "item.moltensteel.hot_diamond_shovel_blade": "Hot Diamond Shovel Blade",
+      "item.moltensteel.golden_pick": "Golden Pick Head",
+      "block.moltensteel.hot_shovel_smithed": "Hot Shovel Unsmithed",
+      "item.moltensteel.hot_iron_axe_blade": "Hot Iron Axe Blade",
+      "item.moltensteel.golden_great_sword_blade": "Golden Great Sword Blade",
+      "item.moltenmetal.diamond_sword_blade": "Diamond Sword Blade",
+      "item.moltenmetal.hot_diamond_hand_guard": "Hot Diamond Hand Guard",
+      "item.moltensteel.hot_golden_pick_head": "Hot Golden Pick Head",
+      "item.moltensteel.heavy_iron_armor_chestplate": "Heavy Iron Chestplate",
+      "item.moltensteel.hot_diamond_sword_blade": "Hot Diamond Sword Blade",
+      "block.moltenmetal.hot_plate_smithed": "Hot Plate Unsmithed",
+      "item.moltenmetal.heavy_iron_armor_helmet": "Heavy Iron Helmet",
+      "item.moltenmetal.golden_pick": "Golden Pick Head",
+      "item.moltensteel.long_sword_mould": "Long Sword Blade Mould",
+      "block.moltenmetal.hot_plate_unsmithed": "Hot Plate Unsmithed"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "CooledItems",
+        "children": []
+      },
+      {
+        "name": "Moulds",
+        "children": []
+      },
+      {
+        "name": "HotItems",
+        "children": [
+          {
+            "name": "Swords",
+            "children": []
+          },
+          {
+            "name": "HandGuards",
+            "children": []
+          },
+          {
+            "name": "Pickaxes",
+            "children": []
+          },
+          {
+            "name": "Axes",
+            "children": []
+          },
+          {
+            "name": "Shovels",
+            "children": []
+          },
+          {
+            "name": "Plates",
+            "children": []
+          },
+          {
+            "name": "GreatSwords",
+            "children": []
+          },
+          {
+            "name": "LongSword",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "CraftingRecipes",
+        "children": [
+          {
+            "name": "ArmorRecipes",
+            "children": []
+          },
+          {
+            "name": "HotRecipes",
+            "children": [
+              {
+                "name": "Iron",
+                "children": []
+              },
+              {
+                "name": "Gold",
+                "children": []
+              },
+              {
+                "name": "Diamond",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "IronRecipes",
+            "children": []
+          },
+          {
+            "name": "GoldRecipes",
+            "children": []
+          },
+          {
+            "name": "DiamondRecipes",
+            "children": []
+          },
+          {
+            "name": "MouldsRecipes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "HeavyArmor",
+        "children": []
+      },
+      {
+        "name": "TradesAndLootTables",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moltenmetal",
+    "modName": "Molten Metal",
+    "version": "1.0.0",
+    "author": "Maskdrawing",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/molten-metal",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Hello There",
+    "modElementsPackage": "net.mcreator.moltenmetal",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

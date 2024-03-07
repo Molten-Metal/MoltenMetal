@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_helmet"
+    },
+    "b": {
+      "item": "moltenmetal:iron_plate"
+    }
+  },
+  "result": {
+    "item": "moltenmetal:heavy_iron_armor_helmet",
+    "count": 1
+  }
+}

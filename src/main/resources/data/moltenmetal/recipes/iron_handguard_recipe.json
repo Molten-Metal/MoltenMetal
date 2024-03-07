@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "moltenmetal:handguard_mould"
+    },
+    {
+      "item": "moltenmetal:molten_iron"
+    }
+  ],
+  "result": {
+    "item": "moltenmetal:hot_iron_hand_guard",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "moltenmetal:custom/shovelhotblocksmithed",
+  "textures": {
+    "all": "moltenmetal:block/shovelhot",
+    "particle": "moltenmetal:block/shovelhot",
+    "0": "moltenmetal:block/shovelhot"
+  },
+  "render_type": "solid"
+}

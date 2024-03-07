@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GoldenPlate"
+      },
+      {
+        "value": "CUSTOM:GoldenPlate"
+      },
+      {
+        "value": "CUSTOM:GoldenPlate"
+      },
+      {
+        "value": "CUSTOM:GoldenPlate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldenPlate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GOLDEN_HELMET"
+    },
+    "name": "golden_helmet",
+    "namespace": "minecraft"
+  }
+}

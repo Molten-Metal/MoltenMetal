@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hot_great_sword"
+      },
+      "name": "default"
+    }
+  }
+}

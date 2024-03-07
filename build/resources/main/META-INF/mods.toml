@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="moltenmetal"
+version="1.0.0"
+displayName="Molten Metal"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/molten-metal"
+credits="Hello There"
+authors="Maskdrawing"
+
+[[dependencies.moltenmetal]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

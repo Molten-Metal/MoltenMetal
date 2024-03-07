@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "moltenmetal:molten_gold"
+    },
+    {
+      "item": "moltenmetal:shovel_blade_mould"
+    }
+  ],
+  "result": {
+    "item": "moltenmetal:hot_golden_shovel_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "moltenmetal:molten_gold"
+    },
+    {
+      "item": "moltenmetal:molten_gold"
+    },
+    {
+      "item": "moltenmetal:molten_gold"
+    },
+    {
+      "item": "moltenmetal:pick_head_mould"
+    }
+  ],
+  "result": {
+    "item": "moltenmetal:hot_golden_pick_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "moltenmetal:custom/axehotblock.bbmodel",
+  "textures": {
+    "all": "moltenmetal:block/axehot",
+    "particle": "moltenmetal:block/axehot",
+    "2": "moltenmetal:block/axehot"
+  },
+  "render_type": "solid"
+}

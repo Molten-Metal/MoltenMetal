@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "moltenmetal:heavy_diamond_armor_chestplate"
+  },
+  "base": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "moltenmetal:heavy_netherite_armor_chestplate"
+  }
+}

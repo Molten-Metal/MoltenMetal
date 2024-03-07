@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "moltenmetal:molten_gold"
+    },
+    {
+      "item": "moltenmetal:handguard_mould"
+    }
+  ],
+  "result": {
+    "item": "moltenmetal:hot_golden_hand_guard",
+    "count": 1
+  }
+}

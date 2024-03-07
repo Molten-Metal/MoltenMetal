@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "moltenmetal:armorer_loot",
+    "moltenmetal:weapon_loot",
+    "moltenmetal:tool_loot",
+    "moltenmetal:dungon_loot"
+  ],
+  "replace": false
+}
